@@ -1,2 +1,5 @@
 one
 Hello
+testing stash feature
+checking the drop feature/s
+making revert commit
